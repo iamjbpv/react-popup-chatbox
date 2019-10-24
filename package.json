@@ -6,14 +6,12 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
-    "start": "npm run build && && node ./"
+    "start": "npm run build && node ./"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.6.0",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
     "express": "^4.17.1",
     "history": "^4.9.0",
     "live-server": "^1.2.1",
@@ -25,7 +23,9 @@
     "react-redux": "^7.1.1",
     "react-router-dom": "^5.0.1",
     "redux": "^4.0.4",
-    "uuid": "^3.3.3"
+    "uuid": "^3.3.3",
+    "@babel/core": "^7.6.0",
+    "@babel/plugin-proposal-class-properties": "^7.5.5"
   },
   "devDependencies": {
     "sass": "^1.23.1"

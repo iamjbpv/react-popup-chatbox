@@ -106,9 +106,10 @@
     
         .input-custom {
             border-radius: 0;
-            border: 0;
             border-top: 1px solid #d1d8e0;
             border-left: 1px solid #d1d8e0;
+            border-bottom: 0;
+            border-right: 0;
             border-color: none;
             outline: 0;
             box-shadow: none;
