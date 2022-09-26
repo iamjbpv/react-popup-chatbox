@@ -16,7 +16,7 @@
     "history": "^4.9.0",
     "live-server": "^1.2.1",
     "parcel-bundler": "^1.12.3",
-    "pubnub": "^4.27.0",
+    "pubnub": "^4.37.0",
     "react": "^16.11.0",
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.11.0",
